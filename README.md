@@ -11,7 +11,7 @@ Worksheets(ws.Name).Activate found here: https://learn.microsoft.com/en-us/offic
 
 
 All files uploaded to the VBA-challenge repository including:  
-This READEME file  
+This README file  
 VBA-Challenge.bas - VBA script  
 VBA-Challenge.txt - text file version of the script in case I didn't export the script correctly out of Excel  
 2018 Results.jpg  
